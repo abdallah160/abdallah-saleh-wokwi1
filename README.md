@@ -19,5 +19,5 @@ The project connects ESP32 to a DHT22 sensor to read temperature and humidity. I
 
 ## Here are the Screenshots:
 
-![Wokwi](wokwi_simulation.png)
-![ThingSpeak](thingspeak_dashboard.png)
+![Wokwi](Workplace.png)
+![ThingSpeak](ThingSpeak.png)
